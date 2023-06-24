@@ -32,70 +32,70 @@
 
 ## Home page
 
-![Image 1]<img src="screenshots/HomePage.jpg"  height="200px"><hr>
+![Image 1]<img src="screenshots/HomePage.png"  height="200px"><hr>
 
 
 ## Login page
 
-<img src="screenshots/loginpage.jpg"  height="200px"><hr>
+<img src="screenshots/loginpage.png"  height="200px"><hr>
 
 ## Jobs List With A Filter
 
-<img src="screenshots/joblist.jpg" height="200px"><hr>
+<img src="screenshots/joblist.png" height="200px"><hr>
 
 ## Job details 
-<img src="screenshots/jobdetail.jpg" height="200px"><hr>
+<img src="screenshots/jobdetail.png" height="200px"><hr>
 
 ## Job details With Apply Form
 
-<img src="screenshots/Job-detail_apply.jpg" height="200px"><hr>
+<img src="screenshots/Job-detail_apply.png" height="200px"><hr>
 
 
 ## Add new Job
 
-<img src="screenshots/addjob.jpg" height="200px"><hr>
+<img src="screenshots/addjob.png" height="200px"><hr>
 
 
 ## Blogs List With Create Posts
 
-<img src="screenshots/blogspage.jpg"  height="200px"><hr> 
+<img src="screenshots/blogspage.png"  height="200px"><hr> 
 
 ## Blogs List
 
-<img src="screenshots/bloglist.jpg"  height="200px"><hr>
+<img src="screenshots/bloglist.png"  height="200px"><hr>
 
 
 ## Blog detail With Comment Form
 
-<img src="screenshots/leavecomments.jpg"  height="200px"><hr>
+<img src="screenshots/leavecomments.png"  height="200px"><hr>
 
 ## Login
 
-<img src="screenshots/login.jpg"  height="200px"><hr>
+<img src="screenshots/login.png"  height="200px"><hr>
 
 ## ResetPass
 
-<img src="screenshots/resetpass.jpg"  height="200px"><hr>
+<img src="screenshots/resetpass.png"  height="200px"><hr>
 
 ## Registeration
 
-<img src="screenshots/Registeration.jpg"  height="200px"><hr>
+<img src="screenshots/Registeration.png"  height="200px"><hr>
 
 ## ProfileSummary
 
-<img src="screenshots/profileSummary.jpg"  height="200px"><hr>
+<img src="screenshots/profileSummary.png"  height="200px"><hr>
 
 ## EditProfile
 
-<img src="screenshots/Edit_profile.jpg"  height="200px"><hr>
+<img src="screenshots/Edit_profile.png"  height="200px"><hr>
 
 ## Contactus
 
-<img src="screenshots/contactus.jpg"  height="200px"><hr>
+<img src="screenshots/contactus.png"  height="200px"><hr>
 
 ## API
 
-<img src="screenshots/Jobsapi.jpg"  height="200px"><hr>
+<img src="screenshots/Jobsapi.png"  height="200px"><hr>
 
  
 
