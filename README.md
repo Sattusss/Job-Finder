@@ -32,7 +32,7 @@
 
 ## Home page
 
-<img src="screenshots/HomePage.jpg"  height="200px"><hr>
+![Image 1]<img src="screenshots/HomePage.jpg"  height="200px"><hr>
 
 
 ## Login page
