@@ -53,7 +53,7 @@
 
 ## Add new Job
 
-<img src="B:\VSCODE\Django-Job-Finder-main\screenshots\addjob.png" height="200px"><hr>
+<img src="screenshots/addjob.png" height="200px"><hr>
 
 
 ## Blogs List With Create Posts
@@ -78,9 +78,7 @@
 <img src="screenshots/resetpass.png"  height="200px"><hr>
 
 ## Registeration
-<p align="center">
-    <img src="https://github.com/Sattusss/Job-Finder/blob/main/screenshots/Registeration.png">
-</p>
+<img src="screenshots/Registeration.png"  height="200px"><hr>
 
 ## ProfileSummary
 
