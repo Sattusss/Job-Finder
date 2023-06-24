@@ -78,7 +78,7 @@
 <img src="screenshots/resetpass.png"  height="200px"><hr>
 
 ## Registeration
-<img src="screenshots/Registeration.png"  height="200px"><hr>
+[! [ Registration Image ] (https://github.com/Sattusss/Job-Finder/blob/main/screenshots/Registeration.png)](https://github.com/)
 
 ## ProfileSummary
 
