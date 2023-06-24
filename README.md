@@ -86,7 +86,7 @@
 
 ## EditProfile
 
-<img src="https://github.com/Sattusss/Job-Finder/blob/main/screenshots/Edit_profile.png"  height="200px"><hr>
+<img src="screenshots/Edit_profile.png"  height="200px"><hr>
 
 ## Contactus
 
