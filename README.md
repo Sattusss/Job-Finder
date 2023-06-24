@@ -31,57 +31,71 @@
 ### Screenshots From The Project
 
 ## Home page
-<img src="screenshots/HomePage.jpg" >
+
+<img src="screenshots/HomePage.jpg"  height="200px"><hr>
 
 
 ## Login page
-<img src="screenshots/loginpage.jpg" >
+
+<img src="screenshots/loginpage.jpg"  height="200px"><hr>
 
 ## Jobs List With A Filter
-<img src="screenshots/joblist.jpg" >
+
+<img src="screenshots/joblist.jpg" height="200px"><hr>
 
 ## Job details 
-<img src="screenshots/jobdetail.jpg" >
+<img src="screenshots/jobdetail.jpg" height="200px"><hr>
 
 ## Job details With Apply Form
 
-<img src="screenshots/Job-detail_apply.jpg" >
+<img src="screenshots/Job-detail_apply.jpg" height="200px"><hr>
 
 
 ## Add new Job
-<img src="screenshots/addjob.jpg" >
+
+<img src="screenshots/addjob.jpg" height="200px"><hr>
 
 
 ## Blogs List With Create Posts
-<img src="screenshots/blogspage.jpg" >
+
+<img src="screenshots/blogspage.jpg"  height="200px"><hr> 
 
 ## Blogs List
-<img src="screenshots/bloglist.jpg" >
+
+<img src="screenshots/bloglist.jpg"  height="200px"><hr>
 
 
 ## Blog detail With Comment Form
-<img src="screenshots/leavecomments.jpg" >
+
+<img src="screenshots/leavecomments.jpg"  height="200px"><hr>
 
 ## Login
-<img src="screenshots/login.jpg" >
+
+<img src="screenshots/login.jpg"  height="200px"><hr>
 
 ## ResetPass
-<img src="screenshots/resetpass.jpg" >
+
+<img src="screenshots/resetpass.jpg"  height="200px"><hr>
 
 ## Registeration
-<img src="screenshots/Registeration.jpg" >
+
+<img src="screenshots/Registeration.jpg"  height="200px"><hr>
 
 ## ProfileSummary
-<img src="screenshots/profileSummary.jpg" >
+
+<img src="screenshots/profileSummary.jpg"  height="200px"><hr>
 
 ## EditProfile
-<img src="screenshots/Edit_profile.jpg" >
+
+<img src="screenshots/Edit_profile.jpg"  height="200px"><hr>
 
 ## Contactus
-<img src="screenshots/contactus.jpg" >
+
+<img src="screenshots/contactus.jpg"  height="200px"><hr>
 
 ## API
-<img src="screenshots/Jobsapi.jpg" >
+
+<img src="screenshots/Jobsapi.jpg"  height="200px"><hr>
 
  
 
